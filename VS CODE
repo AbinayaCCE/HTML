@@ -1,0 +1,37 @@
+VS CODE is a most popular text editor..
+It is a cross platform->means it can run on any platform like mac,windows,linux..
+VS CODE-->is biult in _electron.js->it allows to bulit up app like HTML,CSS,Jva Script..
+
+SIDE BARS::
+1.File explorer->gives details of the files.
+2.Search->required words from the files van be searched
+  Replace->it replaces the words with search option..
+3.Source control tab->can see the files changed and so on.....
+4.Debugging section->can have breakpoints and inspect variables like it is used for debug and run.
+5.Extensions->to add different peices of functionality..that themes can be changed accordingally...
+
+TOGGLE ZEN MODE:::::
+->This mode is used to close the sidebars,border items and can be able to concerntrate on the code.
+
+
+COMMANDS:::
+1) CTRL+B-> open the sidebar.
+2) SHIFT+CTRL+E-> open the file explorer.
+3) SHIFT+CTRL+F-> to find,search or replace
+4) CTRL+SHIFT+G-> for source control
+5)SHIFT D-> debugging.
+6) ***MASTER COMMAND**->>Command palette->SHIFT+P (OR) CTRL+SHIFT+P->ability to search for whatever command you run
+7)COMMAND F->we select a piece of word and give this command->make easier to search and replace.
+8)COMMAND W->close the file.
+9)CTRL+TAB/CTRL+SHIFT+TAB->multiple files can be switched 
+10)CTRL+C->copy->keep arrow in that row 
+11)CTRL+V->paste
+12)CTRL+Z->undo
+13)CTRL+D->select the actual word you'r on.
+
+{{{WE CAN OPEN TWO FILES AT A TIME AND OPEN IT IN SIDEWAYS OR SPLIT SCREEN FORMAT}}}
+
+EMMET:::
+->emmet snippets are used to generate html code.
+->it has powerful shortcuts.
+
